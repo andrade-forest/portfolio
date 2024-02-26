@@ -74,12 +74,12 @@ skills:
       - name: Yoga
         description: ''
         percent: 90
-        icon: cat
+        icon: yoga
         icon_pack: fas
       - name: Reading
         description: ''
         percent: 70
-        icon: camera-retro
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
